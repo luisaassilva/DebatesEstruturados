@@ -6,26 +6,18 @@ Paulino, D., Correia, A., Barroso, J. et al. Cognitive personalization for onlin
 
 ## 1. Fichamento de Conteúdo
 
-O artigo nos mostra os benefícios da atribuição de tarefas de acordo com suas melhores habilidades cognitivas de modo que a adaptar tarefas de acordo com qual habilidade cognitiva o funcionários possui, melhorando a performance e motivação do trabalhador, através de adaptações e customizações da tecnologia , o estudo utilizou do método PICO e analisou trabalhos de 2010-2020 completos revisado e em inglês. As habilidades cognitivas foram avaliadas através de testes cognitivos, teste psicológicos onlines e microtasks. Após as análises o estudo concluiu que as habilidades cognitivas devem ser consideradas durante a atribuição de tarefas e que realizar teste cognitivos periodicamente para descobrir os pontos fortes e fracos do trabalhador já ajudaria na atribuição ideal dessas tarefas, e elas tendem a mudar, melhorar ou piorar de acordo com o tempo.
+O artigo nos mostra os benefícios da atribuição de tarefas de acordo com suas melhores habilidades cognitivas de modo que a adaptar tarefas de acordo com qual habilidade cognitiva o funcionários possui, melhorando a performance e motivação do trabalhador, através de adaptações e customizações da tecnologia , o estudo utilizou do método PICO e analisou trabalhos de 2010-2020 completos revisado e em inglês. As habilidades cognitivas foram avaliadas através de testes cognitivos, teste psicológicos onlines e microtasks. Após as análises o estudo concluiu que as habilidades cognitivas devem ser consideradas durante a atribuição de tarefas e que realizar teste cognitivos periodicamente para descobrir os pontos fortes e fracos do trabalhador já ajudaria na atribuição ideal dessas tarefas, e elas tendem a mudar, melhorar ou piorar de acordo com o tempo.O artigo afirma que existe uma limitação em sua pesquisa devido a dificuldade de filtrar artigos por palavras chaves, como também erros em categorizar artigos e artigos que não citaram a tecnologia utilizada em seus experimentos.
+
 ## 2. Fichamento Bibliográfico 
 
-`Nesta parte, ideias e conceitos que aparecem no artigo devem ser organizados e descritos com as palavras do leitor, e, idealmente, devem ser indicadas as páginas onde aparecem no texto. Deve-se incluir de 3 a 6  itens. Exemplo:`
 
-
-* _Frequency_ (frequência) é o número de dias em que o voluntário esteve ativo executando tarefas no sistema/projeto (página 54).
-* _Daily productivity_ (produtividade diária) é a quantidade média de tarefas que o voluntário executa por dia em que está ativo (página 54).
-* _Typical session duration_ (duração média da sessão) é a quantidade de tempo seguido que o usuário permanece executando tarefas no projeto/sistema (página 54).
-* _Devoted time_ é o total de tempo que o voluntário permaneceu executando tarefas no sistema contando todas as suas participações, ou seja, somando as horas em todos os dias em que esteve ativo (página 54).
+* _PICO: é um tipo de estratégia utilizada para estruturar qual massa de dados iremos analisar (separada em Population ,Intervention, Comparison e Outcome) (página 5).
+* _Bandwagon Effect: resultados de uma pesquisa podem apresentar uma margem de erro devido o efeito manada, um indivíduo seguir a maioria mesmo que não concorde. (página 18).
+* _The Kit of Factor-Referenced Cognitive Tests: é um livro que resume e identifica 72 tipos diferentes de teste cognitivos, que são utilizados em diversos campos de pesquisa, foi utilizado no artigo para avaliar as atividades cognitivas de participantes da amostra (página 14)
 
 ## 3. Fichamento de Citações 
 
-`Aqui devem ser adicionadas as frases mais importantes que aparecem no artigo. Deve ser uma transcrição exata de como estão escritas no artigo, devem ficar entre aspas. Esse fichamento é importante para que possa identificar facilmente como o autor do artigo descreveu um conceito, teoria, método, resultado etc. Deve-se incluir de 3 a 6  itens. Exemplo:`
 
-
-* _"To take advantage of these human abilities, a new computing approach—called human computation—has emerged to let humans perform the tasks for which there's still no satisfactory solution via today's silicon-based computers"_
-* _"Volunteer thinking projects are analogous to volunteer computing projects, such as SETI@home"_
-* _"Our results suggest that we can broadly divide participants into transient volunteers (those who execute tasks only one day and don't return) and regular volunteers (those who return at least one more day to execute more tasks after executing the first task in the project)."_
-* _"Given these intervals, we use the threshold-based methodology [11] to determine the sessions."_
-* _"There's a strong correlation between volunteers' frequency and their devoted time to the project"_
-* _"There's also a moderate correlation between daily productivity and session duration for regular volunteers"_
-* _"In the Milky Way Project, the main change from normal days to busy days is that the proportion of traffic from the UK increases from 16 to 34 percent, and the proportion of users that came to the project through the BBC's website (bbc.co.uk) increases from 3 to 24 percent."_
+* _"The main findings indicated that short-length cognitive tasks help to achieve better results regarding the crowd worker assignment when comparing to other task assignment methods. Furthermore, improving the assignment of tasks to workers is validated in the literature as promoting a higher worker satisfaction”_
+*_“Usability makes it possible to assess whether a system is usable by the target population."_
+*_“Having conversational interfaces in a crowdsourcing setting, that supports the personalization of microtasks, substantially improve the performance of crowdworker”_
