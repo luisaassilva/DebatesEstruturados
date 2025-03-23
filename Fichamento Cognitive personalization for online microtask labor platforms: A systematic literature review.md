@@ -11,9 +11,9 @@ O artigo nos mostra os benefícios da atribuição de tarefas de acordo com suas
 ## 2. Fichamento Bibliográfico 
 
 
-* _PICO: é um tipo de estratégia utilizada para estruturar qual massa de dados iremos analisar (separada em Population ,Intervention, Comparison e Outcome) (página 5).
-* _Bandwagon Effect: resultados de uma pesquisa podem apresentar uma margem de erro devido o efeito manada, um indivíduo seguir a maioria mesmo que não concorde. (página 18).
-* _The Kit of Factor-Referenced Cognitive Tests: é um livro que resume e identifica 72 tipos diferentes de teste cognitivos, que são utilizados em diversos campos de pesquisa, foi utilizado no artigo para avaliar as atividades cognitivas de participantes da amostra (página 14)
+* _PICO: é um tipo de estratégia utilizada para estruturar qual massa de dados iremos analisar (separada em Population ,Intervention, Comparison e Outcome) (página 5)._
+* _Bandwagon Effect: resultados de uma pesquisa podem apresentar uma margem de erro devido o efeito manada, um indivíduo seguir a maioria mesmo que não concorde. (página 18)._
+* _The Kit of Factor-Referenced Cognitive Tests: é um livro que resume e identifica 72 tipos diferentes de teste cognitivos, que são utilizados em diversos campos de pesquisa, foi utilizado no artigo para avaliar as atividades cognitivas de participantes da amostra (página 14)_
 
 ## 3. Fichamento de Citações 
 
