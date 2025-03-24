@@ -17,7 +17,6 @@ O artigo apresenta os benefícios da atribuição de tarefas com base nas melhor
 
 ## 3. Fichamento de Citações 
 
-
 * _"The main findings indicated that short-length cognitive tasks help to achieve better results regarding the crowd worker assignment when comparing to other task assignment methods. Furthermore, improving the assignment of tasks to workers is validated in the literature as promoting a higher worker satisfaction”_
-*_“Usability makes it possible to assess whether a system is usable by the target population."_
-*_“Having conversational interfaces in a crowdsourcing setting, that supports the personalization of microtasks, substantially improve the performance of crowdworker”_
+* _“Usability makes it possible to assess whether a system is usable by the target population."_
+* _“Having conversational interfaces in a crowdsourcing setting, that supports the personalization of microtasks, substantially improve the performance of crowdworker”_
